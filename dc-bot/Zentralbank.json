@@ -1,0 +1,43 @@
+{
+    "631179768980570132": {
+        "wallet": 3,
+        "bank": 4969082800,
+        "crypto wallet": 968.1000000000004,
+        "steuer": 11.389999999999999,
+        "gamble": 0,
+        "bag": [
+            {
+                "item": "pc",
+                "amount": 1
+            },
+            {
+                "item": "laptop",
+                "amount": 1
+            },
+            {
+                "item": "pistole",
+                "amount": 3
+            }
+        ]
+    },
+    "664881603604119563": {
+        "wallet": 634,
+        "bank": 0,
+        "crypto wallet": 10
+    },
+    "699186870290087986": {
+        "wallet": 0,
+        "bank": 2242448,
+        "crypto wallet": 0
+    },
+    "654078543688499220": {
+        "wallet": 560000000,
+        "bank": 0,
+        "crypto wallet": 94
+    },
+    "665933318109397022": {
+        "wallet": 613189,
+        "bank": 64350000,
+        "crypto wallet": 0
+    }
+}
