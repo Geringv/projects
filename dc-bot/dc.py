@@ -1,7 +1,7 @@
 import discord
 import random
 from discord.ext import commands
-from yahoo_fin.stock_info import *
+#from yahoo_fin.stock_info import *
 import json
 import os
 import datetime
@@ -16,11 +16,11 @@ intents.members = True
 activity = activity = discord.Activity(type=discord.ActivityType.listening, name="Plumbum")
 bot = commands.Bot(command_prefix="!", activity=activity, intents=intents)
 pppp = "cm"
-p = get_live_price("BTC-USD")
-mc = get_day_gainers()
+#p = get_live_price("BTC-USD")
+#mc = get_day_gainers()
 pringles = 2.29
 mwz = 0.19
-dl = get_day_losers()
+#dl = get_day_losers()
 channel = bot.get_channel(955141990574592094)
 kugel = 0
 patrone = 0
@@ -1063,4 +1063,4 @@ async def c_o(message):
     await message.send("Das Casino hat geöffnet!")
 
 
-bot.run("OTU1MTQxMzU5MjczMTI3OTU2.GG2tni.BwpNbNHwodnPZWBs8qoQEuyp3qqTfmStuvymlE")
+bot.run("TOKEN")
